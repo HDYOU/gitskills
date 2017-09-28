@@ -1,9 +1,4 @@
 master 123
 Creating a new branch is quick and simple.
 
-<<<<<<< HEAD
-it is master
-other ....
-=======
-my name is jj
->>>>>>> jj
+it is dev
